@@ -1,0 +1,2 @@
+cls
+node server.js
