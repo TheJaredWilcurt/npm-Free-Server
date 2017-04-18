@@ -1,5 +1,6 @@
 // NPM-Free Server by The Jared Wilcurt
 // All you need to run this is an installed copy of Node.JS
+// Put this next to the files you want to serve and run: node server.js
 
 // Require in some of the native stuff that comes with Node
 var http = require('http');
