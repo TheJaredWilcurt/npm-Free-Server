@@ -1,0 +1,30 @@
+{
+  "name": "npm-free-server",
+  "version": "1.1.0",
+  "description": "A very tiny webserver that uses no other dependencies.",
+  "author": "The Jared Wilcurt",
+  "main": "dist/server.js",
+  "scripts": {
+    "start": "node dist/server.js"
+  },
+  "homepage": "https://github.com/TheJaredWilcurt/NPM-Free-Server#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJaredWilcurt/NPM-Free-Server.git"
+  },
+  "keywords": [
+    "npm-free-server",
+    "dependency-free",
+    "no-dependencies",
+    "no-deps",
+    "small-server",
+    "tiny-server",
+    "small",
+    "server",
+    "webserver"
+  ],
+  "bugs": {
+    "url": "https://github.com/TheJaredWilcurt/NPM-Free-Server/issues"
+  },
+  "license": "MIT"
+}
