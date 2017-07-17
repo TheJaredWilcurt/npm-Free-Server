@@ -17,6 +17,6 @@ If you're on Windows you can just double-click the `server.bat`.
 
 * * *
 
-If you would like for the server to auto launch a browser at the correct localhost address, you use the npm module open, by either requiring it in, or simply copying it's JS file from it's repo into this JS file.
+If you would like for the server to auto launch a browser at the correct localhost address, you use the node module `open`, by either requiring it in, or simply copying it's JS file from it's repo into this JS file.
 
 * https://www.npmjs.com/package/open
