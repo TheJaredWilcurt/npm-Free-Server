@@ -60,7 +60,7 @@ http.createServer(function (request, response) {
                 return;
             }
 
-            // Otherwise, declar a headers object and a var for the MIME-Type
+            // Otherwise, declare a headers object and a var for the MIME-Type
             var headers = {};
             var contentType = contentTypesByExtension[path.extname(filename)];
             // If the requested file has a matching MIME-Type
