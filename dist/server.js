@@ -17,9 +17,9 @@ var GRN = '\033[32m';
 // Create the server
 http.createServer(function (request, response) {
 
-    // The requested URL like http://localhost:8000/file.html
+    // The requested URL, like http://localhost:8000/file.html => /file.html
     var uri = url.parse(request.url).pathname;
-    // get the file.html from above and then find it from the current folder
+    // get the /file.html from above and then find it from the current folder
     var filename = path.join(process.cwd(), uri);
 
     // Setting up MIME-Type (YOU MAY NEED TO ADD MORE HERE) <--------
