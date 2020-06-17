@@ -1,4 +1,4 @@
-# NPM-Free-Server
+# npm-Free-Server
 
 This is a **very tiny** server. Without comments it's **50 lines of code** and it's **<1KB** (minified).
 
